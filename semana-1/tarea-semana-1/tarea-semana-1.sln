@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea-semana-1", "tarea-semana-1.csproj", "{AFE776BB-C170-4FC3-BF33-47C8D433006B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{D8DD540C-1D7A-4301-B646-AE9E30578018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE776BB-C170-4FC3-BF33-47C8D433006B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE776BB-C170-4FC3-BF33-47C8D433006B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE776BB-C170-4FC3-BF33-47C8D433006B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE776BB-C170-4FC3-BF33-47C8D433006B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DD540C-1D7A-4301-B646-AE9E30578018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DD540C-1D7A-4301-B646-AE9E30578018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DD540C-1D7A-4301-B646-AE9E30578018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DD540C-1D7A-4301-B646-AE9E30578018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D59762B4-67CD-4379-8A86-8457F40CD29C}
+	EndGlobalSection
+EndGlobal
