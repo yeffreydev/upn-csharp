@@ -24,18 +24,25 @@ namespace tarea_semana_1
                 {
                     case 1:
                         ingresarAlumno();
+                        Console.WriteLine("Dale al Enter para volver al menu...");
                         break;
                     case 2:
                         lista.mostrar();
+                        Console.WriteLine("Dale al Enter para volver al menu...");
+
                         break;
                     case 3:
+                        Console.WriteLine("Dale al Enter para confirmar...");
+
                         break;
                     default:
                         Console.WriteLine("error");
+                        Console.WriteLine("Dale al Enter para volver al menu...");
+
                         break;
                 }
-                Console.ReadKey();
             } while (op != 3);
+            Console.ReadKey();
 
             void ingresarAlumno()
             {
@@ -47,6 +54,7 @@ namespace tarea_semana_1
 
                 Persona persona = new Persona(nombres, edad);
                 lista.insertar(persona);
+
             }
         }
     }
