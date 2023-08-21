@@ -7,6 +7,14 @@ using System.Threading.Tasks;
 
 namespace tarea_semana_1
 {
+    /*
+     Integrantes:
+    -Kevin Eduardo Lezama Cordova
+    -Yeffrey Yampier Espinoza Hernandez
+    -Deysi Yudith Paredes Chunque
+    -Ariana Chavely Medina Gamarra
+    -Roberth Leodan Julcamoro Tucto
+     */
     internal class Program
     {
         static void Main(string[] args)
